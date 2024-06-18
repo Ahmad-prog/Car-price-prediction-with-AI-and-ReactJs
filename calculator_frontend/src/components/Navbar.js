@@ -4,19 +4,7 @@ import './Navbar.css';
 const Navbar = () => {
   return (
     <div>
-      <header>
-        <div className="top-bar">
     
-          <div className="search-box">
-            <input type="text" placeholder="Search" />
-            <button></button>
-          </div>
-        </div>
-        <div className="logo-container">
-          <h1 className="logo">LOGISTICA</h1>
-          <p className="tagline">Architecture Agency</p>
-        </div>
-      </header>
       <nav className="navbar">
         <ul>
           <li><a className="active1">Home</a></li>

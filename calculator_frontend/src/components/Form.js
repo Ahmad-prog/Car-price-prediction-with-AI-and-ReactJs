@@ -52,7 +52,7 @@ const Form = () => {
   return (
     <div className="container">
       <div className="card">
-        <h1 className="card-title">Car Price Prediction</h1>
+        <h1 className="card-title1">Car Price Prediction</h1>
         <form>
           <div className="form-group">
             <label>Year of Purchase:</label>
